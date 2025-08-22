@@ -32,10 +32,6 @@ You can view the live interactive design here:
 
 ---
 
-## 📸 Preview  
-![Homepage Preview](.main_png/home_akshara.png)  
-
----
 
 ## 📖 About the Project  
 This project is part of my **UI/UX and web design practice**. The goal is to create a bookstore that feels warm, vintage, and inviting while also supporting international titles alongside Indian literary treasures.  
